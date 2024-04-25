@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        This is a shaul's branch of the vite-react template. <br />
       </p>
     </>
   )
